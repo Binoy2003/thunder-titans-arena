@@ -9,6 +9,8 @@ export default {
       colors: {
         titan: {
           orange: "#F58216",
+          orangeLight: "#FF9838",
+          orangeWarm: "#FFAE62",
           black: "#111111",
           dark: "#202020",
           card: "#181818",
@@ -23,6 +25,8 @@ export default {
         bebas: ['"Bebas Neue"', 'sans-serif'],
         oswald: ['"Oswald"', 'sans-serif'],
         inter: ['"Inter"', 'sans-serif'],
+        caveat: ['"Caveat"', 'cursive'],
+        marker: ['"Permanent Marker"', 'cursive'],
       },
       boxShadow: {
         'glow-orange': '0 0 25px -5px rgba(245, 130, 22, 0.4)',
